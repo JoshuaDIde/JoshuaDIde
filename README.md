@@ -32,4 +32,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
 
+
+<div align="left">
+  
+ <a href="www.linkedin.com/in/joshua-ide-338340343" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  
+<a href="https://leetcode.com/u/jXT4xfMVhN/" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" width="52" height="40" alt="Leetcode logo"  /></a>
+</div>
+
+
+
 ###
