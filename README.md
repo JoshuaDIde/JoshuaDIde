@@ -2,34 +2,58 @@
 
 ###
 
-<p align="left">My name is Joshua and I'm a CS Student, from Germany.</p>
+<p align="left">My name is Joshua, and I'm a CS student from Germany.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">👨‍💻 CS Student | Passion for Web    Development, C++, and AI  <br>📚 Learning:  Scripting, Cybersecurity, and Full-Stack Development  <br>🌏 Aspiring to study and work internationally | TOEFL Aspirant  <br>💻 Check out my projects below ⬇️</p>
+<p align="left">
+👨‍💻 CS Student with a passion for Web Development, C++, and AI<br>
+📚 Currently learning: Scripting, Cybersecurity, and Full-Stack Development<br>
+🌍 Aspiring to study and work internationally | Preparing for TOEFL<br>
+💻 Feel free to explore my projects below ⬇️
+</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Code With</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+    <span style="margin-left: 10px;">C</span>
+  </div>
+  <br>
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+    <span style="margin-left: 10px;">C++</span>
+  </div>
+  <br>
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim logo" />
+    <span style="margin-left: 10px;">Vim</span>
+  </div>
+  <br>
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+    <span style="margin-left: 10px;">Java</span>
+  </div>
+  <br>
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+    <span style="margin-left: 10px;">Python</span>
+  </div>
+  <br>
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua logo" />
+    <span style="margin-left: 10px;">Lua</span>
+  </div>
 </div>
 
 ###
+
