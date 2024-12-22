@@ -33,14 +33,13 @@
 </div>
 
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/joshua-ide-338340343" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a>
-  <a href="https://leetcode.com/u/jXT4xfMVhN/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" width="52" height="40" alt="LeetCode logo" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/joshua-ide-338340343" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+</a>
+<a href="https://leetcode.com/u/jXT4xfMVhN/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" width="52" height="40" alt="LeetCode logo" />
+</a>
+
 
 
 
